@@ -1,0 +1,13 @@
+{
+    "name": "user/st.local",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Renat Uvarov",
+            "email": "renat131190@yandex.ru"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
