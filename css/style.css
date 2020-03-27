@@ -394,6 +394,7 @@ span.date {
 }
 
 .navbar {
+    backdrop-filter: blur(5px);
     background: rgba(245, 246, 247, 0.93);
     transition: 1s;
     -webkit-box-shadow: 0px 2px 12px 0px rgba(35, 35, 35, 0.5);
@@ -708,12 +709,14 @@ button.btn-lang:focus {
 
 .intro .intro-content {
     text-align: left;
+    padding-right: 100px;
     position: absolute;
 }
 
 .intro .intro-content-news {
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.3);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.65) 0%, rgba(0,0,0,0.65) 20%, rgba(9,9,121,0.6026785714285714) 47%, rgba(0,0,0,0.65) 80%, rgba(0,0,0,0.6474964985994398) 100%);
     position: absolute;
     top: 0;
     left: 0px;
@@ -1545,6 +1548,22 @@ footer .copy a {
     padding: 0 15px;
 }
 
+.main-short {
+    border-radius: 30px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+}
+
+.main-short h2 {
+    text-align: center;
+}
+
+.main-short p {
+    color: #232323;
+    font-size: 18px;
+    text-indent: 20px;
+}
+
 .pagination {
     display: inline-block;
     text-align: center;
@@ -1554,17 +1573,22 @@ footer .copy a {
     color: black;
     float: left;
     padding: 8px 16px;
+    border-radius: 50%;
     text-decoration: none;
     transition: background-color .3s;
 }
 
 .pagination a.active {
-    background-color: #003d8f;
+    background-color: #303CFF;
+    box-shadow: -1px -1px 2px 0px rgba(255, 255, 255, 0.54), -2px -2px 4px -1px rgba(255, 255, 255, 0.38), -5px -5px 12px -3px rgba(255, 255, 255, 0.38), -12px -12px 25px -5px rgba(255, 255, 255, 0.5), 1px 1px 2px 0px rgba(0, 0, 0, 0.4), 2px 2px 4px -1px rgba(0, 0, 0, 0.2), 5px 5px 12px -3px rgba(0, 0, 0, 0.25), 12px 12px 25px -5px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
     color: white;
 }
 
 .pagination a:hover:not(.active) {
+    border-radius: 50%;
     background-color: #ddd;
+    transition: background-color .3s;
 }
 
 .active {
@@ -2910,6 +2934,23 @@ button.news-button:hover {
     margin-right: -65px;
 }
 
+.equipment-back {
+    background-image: url("/img/background-equipment.jpg");
+}
+
+.intro .intro-equipment {
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.5) 0%, rgba(0,0,0,0.5) 20%, rgba(9,9,121,0.2) 50%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%);
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
 @media (min-width: 1366px) {
     .text-news {
         margin-left: 70px;
@@ -2985,9 +3026,6 @@ button.news-button:hover {
         margin-bottom: 15px;
     }
 }
-
-/*КАЖДЫЙ БЛОК
-*/
 
 .card-news {
     background-color: white;
@@ -3173,3 +3211,5 @@ h5.label-search {
     line-height: 1.5;
     font-family: SF-Pro-Display-Regular;
 }
+
+    .form-check-inline .form-check-input
