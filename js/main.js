@@ -128,7 +128,40 @@ $('.js-show-form').on('click', function () {
     $('.js-to-top').addClass('opacity');
 });
 
-document.querySelector('.form-style').addEventListener('submit', function (e) {
-    e.preventDefault()
+$(function () {
+    var owl = $(".owl-carousel");
+    owl.owlCarousel({
+        margin: 10,
+        nav: false,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        smartSpeed: 1000,
+        responsiveClass: true,
+        responsive: {
+            0:{
+                items: 4
+            },
+            480:{
+                items: 6
+            },
+            769:{
+                items: 10
+            },
+            1920:{
+                items: 15
+            },
+            2048:{
+                items: 18
+            }
+        }
+    });
+});
+
+$('.show-form').on('click', function(){
+    $(this).closest('.form-display').hide();
 })
 
+$('.close-btn').on('click', function(){
+    $(this).closest('.form-display').hide();
+})
