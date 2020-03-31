@@ -1411,7 +1411,13 @@ footer .copy a {
     }
 
     .container {
-        max-width: 1140px;
+        max-width: 1400px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .container {
+        max-width: 1100px;
     }
 }
 
@@ -2419,9 +2425,6 @@ p.categories-oborudovanie {
         margin-top: 0;
     }
 
-    .form-style {
-        width: 90%;
-    }
 
     .category {
         font-size: 8px;
@@ -2438,22 +2441,6 @@ p.categories-oborudovanie {
     .dropdown-item {
         color: #ffffff;
         text-shadow: #232323 0 0 2px;
-    }
-
-    .navbar {
-        -webkit-backdrop-filter: saturate(180%) blur(20px);
-        backdrop-filter: saturate(180%) blur(20px);
-        background: rgba(245, 246, 247, 0.33);
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-        -ms-flex-align: center;
-        align-items: center;
-        -ms-flex-pack: justify;
-        justify-content: space-between;
-        padding: .5rem 1rem;
-        height: auto;
     }
 
     .navbar-logo {
@@ -2649,13 +2636,64 @@ p.categories-oborudovanie {
     }
 
     .widget-sidebar-cat .list-sidebar-cat {
-        display: inline-flex;
+        display: block;
     }
 
     .last-element {
         display: none;
     }
 
+    .phone-none {
+        width: 60%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1020px){
+    .widget-sidebar-cat .list-sidebar-cat {
+        display: inline-flex;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 991px) {
+    .navbar-brand {
+        padding-left: 60px;
+    }
+}
+
+@media (max-width: 991px) {
+    .phone-none {
+        margin-right: 45px;
+    }
+    .nav-item {
+        margin-right: 0px;
+    }
+    .lang_search {
+        display: inline-block;
+    }
+    .nav-link-lang {
+        padding: 0;
+    }
+}
+
+@media (max-width: 945px) {
+    .phone-none {
+        margin-right: 70px;
+    }
+}
+
+@media (max-width: 866px) {
+    .phone-none {
+        margin-right: 23%;
+    }
+}
+
+@media (max-width: 830px) {
+    .phone-none {
+        margin-right: 30%;
+    }
+}
+
+@media (max-width: 775px) {
     .phone-none {
         display: none;
     }
@@ -2670,20 +2708,6 @@ p.categories-oborudovanie {
 
     .widget-sidebar-cat .list-sidebar-cat li {
         display: initial;
-    }
-
-    .navbar {
-        background: #f5f6f7;
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-        -ms-flex-align: center;
-        align-items: center;
-        -ms-flex-pack: justify;
-        justify-content: space-between;
-        padding: .5rem 1rem;
-        height: auto;
     }
 
     .navbar-logo {
@@ -2730,6 +2754,40 @@ p.categories-oborudovanie {
         background-color: transparent;
         background-image: none;
         border-color: #ffffff;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .navbar {
+        background: #f5f6f7;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -ms-flex-align: center;
+        align-items: center;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        padding: .5rem 1rem;
+        height: auto;
+        text-align: center;
+    }
+    .navbar-nav {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -ms-flex-align: center;
+        align-items: center;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        padding: .5rem 1rem;
+        height: auto;
+        text-align: center;
+    }
+    .form-style {
+        width: 100%;
     }
 }
 
@@ -3142,12 +3200,6 @@ button.news-button:hover {
             margin-top: 10px;
         }
     }
-
-    @media (max-width: 1005px) {
-        .nav-item {
-            margin-right: 8px;
-        }
-    }
     @media (max-width: 490px) {
         .start-news {
             margin-top: 55px;
@@ -3212,4 +3264,41 @@ h5.label-search {
     font-family: SF-Pro-Display-Regular;
 }
 
-    .form-check-inline .form-check-input
+    @media (max-width: 1039px) {
+        .categories-list {
+            padding: 10px 3px;
+        }
+        .logo-equipment {
+            margin-right: -44px;
+        }
+        .widget-sidebar-cat .sidebar-title {
+            margin-left: 5px;
+        }
+    }
+
+@media (max-width: 1020px) {
+    .categories-list {
+        padding: 10px 0 0 10px;
+    }
+    .sect-pt4 {
+        padding-top: 2rem;
+    }
+}
+
+@media (max-width: 490px) {
+    .sect-pt4 {
+        padding-top: 4rem
+    }
+}
+
+@media (min-width: 710px) and (max-width: 1020px) {
+    .row-equipment {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 690px) {
+    .categories-list {
+        padding: 10px;
+    }
+}
