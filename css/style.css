@@ -459,15 +459,29 @@ a.nav-link:active {
 .nav-link-lang {
     display: inline-block;
     font-size: 16px;
-    padding: 1rem 0px;
+    padding: 5px 10px;
     color: #232323;
     margin-right: 10px;
     font-family: SF-Pro-Display-Regular;
+    transition: 0.3s;
+}
+
+a.nav-link-lang:active {
+    border: none;
+    transition: 0.3s;
+    border-radius: 75px;
+    box-shadow: -4px -2px 4px 0px #ffffff, 2px 2px 2px 0px #DFE4EA inset, -2px -2px 2px 0px #ffffff inset, 4px 2px 6px 0px #DFE4EA;
 }
 
 .nav-link-lang:hover {
+    background-color: #fbfcff;
+    padding: 5px 10px;
+    border: none;
     color: #232323;
-    text-decoration: underline;
+    border-radius: 75px;
+    box-shadow: 0px 0px 0px 0px #ffffff, 0px 0px 0px 0px #DFE4EA inset, 0px 0px 0px 0px #ffffff inset, 4px 2px 6px 0px #DFE4EA;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
 button.btn-lang {
@@ -1541,7 +1555,7 @@ footer .copy a {
 
 .logo-equipment {
     filter: drop-shadow(2px 2px 2px #ffffff);
-    margin-right: -55px;
+    margin-right: -40px;
     width: 350px;
 }
 
@@ -1578,6 +1592,7 @@ footer .copy a {
 .pagination a {
     color: black;
     float: left;
+    margin-left: 5px;
     padding: 8px 16px;
     border-radius: 50%;
     text-decoration: none;
@@ -1804,7 +1819,7 @@ h5.label-search {
 }
 
 .nav-item {
-    margin-right: 10px;
+    margin-right: 3px;
 }
 
 .nav-item-mr0 {
@@ -2001,7 +2016,7 @@ p span {
     position: absolute;
     left: 50%;
     transform: translate(-50%, 30%);
-    width: 30%;
+    width: 40%;
     padding: 30px 25px 20px;
     border-radius: 10px;
     background: #f3f3f3;
@@ -2288,7 +2303,7 @@ h4.categories-single-title {
 }
 
 button.categories-all {
-    font-size: 22px;
+    font-size: 19px;
     margin-right: 10px;
     margin-bottom: 10px;
     padding: 5px 10px;
@@ -2658,6 +2673,7 @@ p.categories-oborudovanie {
     .navbar-brand {
         padding-left: 60px;
     }
+
 }
 
 @media (max-width: 991px) {
@@ -2671,7 +2687,15 @@ p.categories-oborudovanie {
         display: inline-block;
     }
     .nav-link-lang {
-        padding: 0;
+        margin-bottom: 5px;
+    }
+    .form-inline-search {
+        margin-left: 5px;
+        justify-content: center;
+    }
+    .navbar-nav-lang {
+        margin-left: 10px;
+        flex-direction: inherit;
     }
 }
 
@@ -2758,7 +2782,6 @@ p.categories-oborudovanie {
 }
 
 @media (max-width: 991px) {
-
     .navbar {
         background: #f5f6f7;
         display: -ms-flexbox;
@@ -2787,7 +2810,7 @@ p.categories-oborudovanie {
         text-align: center;
     }
     .form-style {
-        width: 100%;
+        width: 60%;
     }
 }
 
@@ -3092,6 +3115,7 @@ button.news-button:hover {
     box-shadow: -1px -1px 2px 0px rgba(255, 255, 255, 0.54), -2px -2px 4px -1px rgba(255, 255, 255, 0.38), -5px -5px 12px -3px rgba(255, 255, 255, 0.38), -12px -12px 25px -5px rgba(255, 255, 255, 0.24), 1px 1px 2px 0px rgba(0, 0, 0, 0.14), 2px 2px 4px -1px rgba(0, 0, 0, 0.12), 5px 5px 12px -3px rgba(0, 0, 0, 0.1), 12px 12px 25px -5px rgba(0, 0, 0, 0.08);
 }
 
+
 .all-news {
     margin-top: 25px;
 }
@@ -3154,7 +3178,7 @@ button.news-button:hover {
 
     label .open-filter {
         position: absolute;
-        z-index: 10000;
+        z-index: 1;
         top: 3px;
         right: 10px;
         font-size: 25px;
@@ -3269,6 +3293,7 @@ h5.label-search {
             padding: 10px 3px;
         }
         .logo-equipment {
+            width: 345px;
             margin-right: -44px;
         }
         .widget-sidebar-cat .sidebar-title {
@@ -3300,5 +3325,91 @@ h5.label-search {
 @media (max-width: 690px) {
     .categories-list {
         padding: 10px;
+    }
+}
+
+    @media (max-width: 767px) and (min-width: 577px) {
+        h4.title-partners {
+            text-align: center;
+        }
+        .img-equipment-card {
+            margin: auto;
+        }
+}
+
+@media (max-width: 499px) {
+    h4.title-partners {
+        text-align: left;
+    }
+}
+
+    @media (max-width: 482px) {
+        h4.title-partners {
+        font-size: 1.3rem;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .img-equipment-card {
+            max-width: 25%;
+        }
+    }
+
+@media (max-width: 370px) {
+    .intro .equipment-title {
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 556px) and (max-width: 576px) {
+    .intro .single-news-title {
+        font-size: 1.5rem;
+    }
+}
+
+    @media (max-width: 991px) {
+        .logo-news {
+            display: none;
+        }
+    }
+
+@media (min-width: 992px) {
+    .logo-news {
+        width: 300px;
+    }
+}
+@media (min-width: 1025px) {
+    .logo-news {
+        margin-right: 0px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .logo-news {
+        width: 350px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .form-style {
+        width: 500px;
+    }
+}
+
+@media (max-width: 600px) {
+    .button-neu {
+        width: 200px;
+    }
+}
+
+@media (max-width: 420px) {
+    .button-neu {
+        width: 150px;
+    }
+    .form-display h2{
+        font-size: 24px;
+    }
+    .form-style {
+        width: 80%;
     }
 }
