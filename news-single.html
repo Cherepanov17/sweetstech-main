@@ -16,11 +16,11 @@
 <body id="page-top">
 
 <nav class="navbar fixed-top navbar-expand-lg">
-  <img class="navbar-logo" width="18pt" height="18pt" src="/img/favicon.png" alt="">
-  <a class="navbar-brand" href="#">Sweets Technologies</a>
+  <img id="logo" class="navbar-logo" width="18pt" height="18pt" src="/img/favicon.png" alt="">
+  <a id="logo" class="navbar-brand" href="#">Sweets Technologies</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon">Меню <i class="fa fa-bars" aria-hidden="true"></i>
+    <span class="navbar-toggler-icon">Menu <i class="fa fa-bars" aria-hidden="true"></i>
   </span>
   </button>
   <div itemscope itemtype="http://schema.org/SiteNavigationElement" class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -29,13 +29,7 @@
         <a  itemprop="url" class="nav-link" href="./">Home</a>
       </li>
       <li itemprop="name" class="nav-item">
-        <a itemprop="url" class="nav-link" href="./#about">About</a>
-      </li>
-      <li itemprop="name" class="nav-item">
         <a itemprop="url" class="nav-link" href="equipment.html">Equipment</a>
-      </li>
-      <li itemprop="name" class="nav-item">
-        <a itemprop="url" class="nav-link" href="./#partners">Partners</a>
       </li>
       <li itemprop="name" class="nav-item">
         <a itemprop="url" class="nav-link" href="news.html">News</a>
@@ -68,14 +62,13 @@
     </div>
   </div>
 </nav>
-
 <!-- Modal -->
 <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="modalSearchLabel"
      aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="modalSearchLabel">Search</h5>
+        <h5 class="modal-title" id="modalSearchLabel">Search equipment</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -89,48 +82,45 @@
           </div>
           <div class="row">
             <div class="col-md-6">
-              <h5 class="label-search">From?</h5>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
-                <label class="form-check-label" for="inlineCheckbox1">Ingredient 1</label>
-              </div>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-                <label class="form-check-label" for="inlineCheckbox2">Ingredient 2</label>
-              </div>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3">
-                <label class="form-check-label" for="inlineCheckbox3">Ingredient 3</label>
-              </div>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4">
-                <label class="form-check-label" for="inlineCheckbox4">Ingredient 4</label>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <h5 class="label-search">What?</h5>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option5">
-                <label class="form-check-label" for="inlineCheckbox5">Product 1</label>
-              </div>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox6" value="option6">
-                <label class="form-check-label" for="inlineCheckbox6">Product 2</label>
-              </div>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox7" value="option7">
-                <label class="form-check-label" for="inlineCheckbox7">Product 3</label>
-              </div>
-              <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox8" value="option8">
-                <label class="form-check-label" for="inlineCheckbox8">Product 4</label>
+              <h5 class="label-search">Categories</h5>
+              <div class="control-group">
+                <label class="control control-checkbox">
+                  Chocolate
+                  <input type="checkbox" checked="checked" />
+                  <div class="control_indicator"></div>
+                </label>
+                <label class="control control-checkbox">
+                  Candy
+                  <input type="checkbox" />
+                  <div class="control_indicator"></div>
+                </label>
+                <label class="control control-checkbox">
+                  Cookies
+                  <input type="checkbox" />
+                  <div class="control_indicator"></div>
+                </label>
+                <label class="control control-checkbox">
+                  Wafers
+                  <input type="checkbox" />
+                  <div class="control_indicator"></div>
+                </label>
+                <label class="control control-checkbox">
+                  Sugar product
+                  <input type="checkbox" />
+                  <div class="control_indicator"></div>
+                </label>
+                <label class="control control-checkbox">
+                  Packaking equipment
+                  <input type="checkbox" />
+                  <div class="control_indicator"></div>
+                </label>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary">Search (2)</button>
+        <button type="button" class="button-neu">Search</button>
       </div>
     </div>
   </div>
