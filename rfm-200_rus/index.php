@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>AUTOMATIC FORMING MACHINE RFM-200 | Sweets Technologies Ltd.</title>
+    <title>Автоматическая формовочная машина RFM-200 | Sweets Technologies Ltd.</title>
     <link rel="stylesheet" href="/rfm-200/css/bootstrap.min.css">    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha256-UhQQ4fxEeABh4JrcmAJ1+16id/1dnlOEVCFOxDef9Lw=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha256-kksNxjDRxd/5+jGurZUJd1sdR2v+ClrCl3svESBaJqw=" crossorigin="anonymous" />
@@ -32,7 +32,7 @@
                                     d="m391.4375 203.507812-27.164062-10.5625 11.738281-26.675781c2.488281-5.660156 1.25-12.273437-3.125-16.644531l-20.519531-20.519531c-4.375-4.375-10.984376-5.613281-16.644532-3.121094l-26.675781 11.738281-10.5625-27.160156c-2.242187-5.765625-7.792969-9.566406-13.980469-9.566406h-29.015625c-6.183593 0-11.738281 3.800781-13.980469 9.566406l-10.5625 27.160156-26.675781-11.734375c-5.660156-2.492187-12.273437-1.25-16.644531 3.121094l-20.515625 20.519531c-4.375 4.371094-5.617187 10.984375-3.125 16.644532l11.738281 26.675781-27.160156 10.5625c-5.765625 2.246093-9.5625 7.796875-9.5625 13.980469v29.015624c0 6.1875 3.796875 11.738282 9.5625 13.980469l27.164062 10.5625-11.738281 26.675781c-2.488281 5.660157-1.25 12.273438 3.125 16.644532l20.515625 20.519531c4.375 4.375 10.984375 5.617187 16.648438 3.121094l26.675781-11.734375 10.5625 27.160156c2.242187 5.761719 7.792969 9.5625 13.980469 9.5625h29.015625c6.183593 0 11.734375-3.800781 13.976562-9.5625l10.566407-27.164062 26.671874 11.734374c5.664063 2.492188 12.273438 1.253907 16.648438-3.121093l20.515625-20.515625c4.375-4.375 5.617187-10.988282 3.125-16.648438l-11.738281-26.675781 27.160156-10.5625c5.765625-2.242187 9.566406-7.792969 9.566406-13.980469v-29.015625c-.003906-6.183593-3.800781-11.738281-9.566406-13.980469zm-20.4375 32.734376-26.550781 10.328124c-4.085938 1.589844-7.269531 4.882813-8.71875 9.019532-.761719 2.167968-1.640625 4.324218-2.617188 6.414062-1.828125 3.917969-1.878906 8.433594-.140625 12.390625l11.449219 26.019531-6.003906 6.003907-25.695313-11.304688c-4.011718-1.765625-8.597656-1.6875-12.550781.214844-2.175781 1.050781-4.46875 2.007813-6.808594 2.839844-4.105469 1.460937-7.371093 4.632812-8.949219 8.691406l-10.164062 26.136719h-8.492188l-10.167968-26.136719c-1.578125-4.058594-4.84375-7.230469-8.949219-8.691406-2.335937-.832031-4.628906-1.789063-6.8125-2.839844-3.949219-1.902344-8.535156-1.980469-12.546875-.214844l-25.695312 11.308594-6.003907-6.007813 11.445313-26.015624c1.742187-3.960938 1.691406-8.476563-.140625-12.394532-.972657-2.082031-1.855469-4.242187-2.617188-6.414062-1.449219-4.136719-4.636719-7.429688-8.71875-9.015625l-26.550781-10.324219v-8.492188l27.007812-10.507812c4.003907-1.554688 7.148438-4.757812 8.636719-8.789062.71875-1.949219 1.542969-3.898438 2.445313-5.796876 1.875-3.9375 1.945312-8.496093.1875-12.492187l-11.699219-26.585937 6.007813-6.003907 26.910156 11.839844c3.9375 1.730469 8.429687 1.6875 12.332031-.113281 1.785156-.828125 3.605469-1.578125 5.40625-2.230469 4.0625-1.476563 7.289063-4.632813 8.855469-8.664063l10.664062-27.414062h8.492188l10.664062 27.414062c1.566406 4.03125 4.792969 7.1875 8.855469 8.664063 1.800781.652344 3.617187 1.402344 5.402344 2.226563 3.902343 1.804687 8.394531 1.847656 12.335937.113281l26.910156-11.839844 6.003907 6.003906-11.695313 26.589844c-1.757812 3.992187-1.6875 8.550781.1875 12.488281.902344 1.894532 1.726563 3.847656 2.445313 5.800782 1.488281 4.027343 4.632812 7.226562 8.636719 8.785156l27.007812 10.503906zm0 0"/><path
                                     d="m270 184.117188c-26.707031 0-48.433594 21.726562-48.433594 48.433593s21.726563 48.4375 48.433594 48.4375 48.4375-21.730469 48.4375-48.4375-21.730469-48.433593-48.4375-48.433593zm0 66.871093c-10.164062 0-18.433594-8.269531-18.433594-18.4375 0-10.164062 8.269532-18.433593 18.433594-18.433593s18.4375 8.269531 18.4375 18.433593c0 10.167969-8.273438 18.4375-18.4375 18.4375zm0 0"/></svg>
                         </span>
-                            <span class="main_nav-txt">Specification</span>
+                            <span class="main_nav-txt">Характеристики</span>
                         </a>
                     </li>
                     <li class="main_nav-item">
@@ -50,7 +50,7 @@
                                     d="m110 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/><path
                                     d="m510 488.832031c-16.566406 0-30 13.433594-30 30 0 16.570313 13.433594 30 30 30s30-13.429687 30-30c0-16.566406-13.433594-30-30-30zm0 40c-5.523438 0-10-4.476562-10-10 0-5.519531 4.476562-10 10-10s10 4.480469 10 10c0 5.523438-4.476562 10-10 10zm0 0"/></svg>
                         </span>
-                            <span class="main_nav-txt">Products</span>
+                            <span class="main_nav-txt">Продукция</span>
                         </a>
                     </li>
                     <li class="main_nav-item">
@@ -67,7 +67,7 @@
                                     d="m441.449219 367.957031c-8.261719 0-15 6.738281-15 15 0 8.257813 6.738281 14.996094 15 14.996094 8.257812 0 14.996093-6.738281 14.996093-14.996094 0-8.261719-6.738281-15-14.996093-15zm0 0"/><path
                                     d="m44.996094 59.992188h196.476562v57.992187h-20c-3.976562 0-7.789062 1.582031-10.605468 4.394531l-22.996094 23c-2.8125 2.8125-4.390625 6.625-4.390625 10.601563v51.996093c0 8.28125 6.714843 14.996094 14.996093 14.996094 8.285157 0 15-6.714844 15-14.996094v-45.78125l14.210938-14.210937h57.566406l14.210938 14.210937v45.78125c0 8.28125 6.714844 14.996094 15 14.996094 8.28125 0 14.996094-6.714844 14.996094-14.996094v-51.996093c0-3.976563-1.582032-7.792969-4.394532-10.601563l-22.996094-23c-2.8125-2.8125-6.625-4.394531-10.605468-4.394531h-19.996094v-57.992187h196.472656c8.285156 0 15-6.714844 15-15v-29.992188c0-8.285156-6.714844-15-15-15-8.28125 0-14.996094 6.714844-14.996094 15v14.996094h-392.949218v-14.996094c0-8.285156-6.714844-15-15-15-8.28125 0-14.996094 6.714844-14.996094 15v29.992188c0 8.285156 6.714844 15 14.996094 15zm0 0"/></svg>
                         </span>
-                            <span class="main_nav-txt">Line</span>
+                            <span class="main_nav-txt">Линия</span>
                         </a>
                     </li>
                     <li class="main_nav-item">
@@ -123,7 +123,7 @@
 </g>
 </svg>
                         </span>
-                            <span class="main_nav-txt">Contacts</span>
+                            <span class="main_nav-txt">Контакты</span>
                         </a>
                     </li>
                 </ul>
@@ -207,51 +207,51 @@
     <div class="main-title_wrapper">
         <div class="w-75 mr-auto ml-auto title-header">
         <div class="text-header-title">
-        <h1 class="main-title">AUTOMATIC FORMING MACHINE RFM-200</h1>
+        <h1 class="main-title">Автоматическая формовочная машина RFM-200</h1>
         </div>
         </div>
         <div class="w-75 mr-auto ml-auto ">
             <div class="text-header text-center">
-                <h2>FOR PRODUCING THE PRODUCTS OF PAST BASED (FRUIT) MASS</h2>
-        <h4>In production the product, you can use various paste based (fruit) mass, for example, such as marzipan, creamy fudge, toffee, hematogen, soft candied roasted nuts, coconut flakes with syrup, nougat, protein masses and different fruit masses with various additives (date paste, dried apricots, dried French plum, mango, cherry, etc.) it all depends on your imagination and needs, the main thing is that the resulting mass has the main properties - stickiness and uniformity.</h4>
+                <h2>Для изготовления продукции из пластичных (фруктовых) масс</h2>
+        <h4>При приготовлении продукта Вы можете использовать различные пластичные массы, например, такие как: марципан, сливочная помадка, ирис, гематоген, мягкий грильяж, нуга, кокосовая стружка с сиропом, протеиновые массы и различные фруктовые массы с разнообразными добавками (финиковая паста, курага, чернослив, манго, вишня и т.д.). Можно экспериментировать с различными сочетаниями, главное чтобы полученная масса обладала главными свойствами – липкость и однородность.</h4>
 </div>
 </div>
     </div>
     <section id="specifications" class="section-padding specifications">
-        <h2 class="section-title">Specifications</h2>
+        <h2 class="section-title">Характеристики</h2>
         <div class="specifications-wrapper">
             <div class="specifications-text">
                 <ul class="specifications-list">
                     <li class="specifications-item">
-                        <span class="pro-title">Working width: </span>
-                        <span class="pro-detail">200 mm</span>
+                        <span class="pro-title">Рабочая ширина: </span>
+                        <span class="pro-detail">200 мм</span>
                     </li>
                          <li class="specifications-item">
-                            <span class="pro-title">Roller Diameter: </span>
-                        <span class="pro-detail">250 mm</span>
+                            <span class="pro-title">Диаметр барабана: </span>
+                        <span class="pro-detail">250 мм</span>
                     </li>
                     <li class="specifications-item">
-                        <span class="pro-title">Capacity: </span>
-                        <span class="pro-detail">up to 5400 bars / hour *</span>
+                        <span class="pro-title">Производительность: </span>
+                        <span class="pro-detail">до 5400 батончиков/час *</span>
                     </li>
                     <li class="specifications-item">
-                        <span class="pro-title">Energy Efficiency Class: </span>
+                        <span class="pro-title">Класс энергоэффективности: </span>
                         <span class="pro-detail">IE 3</span>
                     </li>
                     <li class="specifications-item">
-                        <span class="pro-title">Weight: </span>
-                        <span class="pro-detail">190 kg</span>
+                        <span class="pro-title">Масса: </span>
+                        <span class="pro-detail">190 кг</span>
                     </li>
                     <li class="specifications-item">
-                        <span class="pro-title">Electric power: </span>
-                        <span class="pro-detail">380 V, 50 Hz, 3 phases</span>
+                        <span class="pro-title">Мощность: </span>
+                        <span class="pro-detail">380 В, 50 Гц, 3 фазы</span>
                     </li>
                     <li class="specifications-item">
-                        <span class="pro-title">Dimensions LxWxH: </span>
-                        <span class="pro-detail">900х780х770 mm</span>
+                        <span class="pro-title">Габаритные размеры ДхШхВ: </span>
+                        <span class="pro-detail">900х780х770 мм</span>
                     </li>
                         <li class="specifications-item last-specifications-item">
-                        <span class="pro-detail-dop">* When calculating a bar size 95*30*15 mm</span>
+                        <span class="pro-detail-dop">* При расчёте с батончиком, размером 95*30*15 мм</span>
                     </li>
                 </ul>
             </div>
@@ -266,7 +266,7 @@
     </section>
 
 <section>
-    <h2 class="section-title section-title-advantages">Advantages</h2>
+    <h2 class="section-title section-title-advantages">Преимущества</h2>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3 text-center">
@@ -302,7 +302,7 @@
 
                     </div>
                     <hr>
-                    <p class="text-center">Compact and high capacity of the forming machine RFM-200</p>
+                    <p class="text-center">Компактность и высокая производительность формовочной машины RFM-200</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -443,7 +443,7 @@
 
                     </div>
                     <hr>
-                    <p class="text-center">Quick change of formats, and wide range of different formats and individual development for the client's product</p>
+                    <p class="text-center">Быстрая смена формата, а также широкий ассортимент различных форматов и индивидуальная разработка под продукт клиента</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -515,7 +515,7 @@
 </svg>
 </div>
                     <hr>
-                    <p class="text-center">A wide range of masses for forming</p>
+                    <p class="text-center">Широкий ассортимент масс для формования</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -597,7 +597,7 @@
 </svg>
                     </div>
                     <hr>
-                    <p class="text-center">Easy service, the ability to integrate into an existing line</p>
+                    <p class="text-center">Простота обслуживания, возможность встраивания в уже существующую линию</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -638,7 +638,7 @@
 </svg>
                     </div>
                     <hr>
-                    <p class="text-center">The ability to provide equipment for lease (for testing at the customer's enterprise)</p>
+                    <p class="text-center">Возможность предоставления оборудования в аренду (для тестирования на предприятии клиента)</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -706,7 +706,7 @@
 
                     </div>
                     <hr>
-                    <p class="text-center">Staff training and equipment starting are included</p>
+                    <p class="text-center">Обучение персонала и запуск оборудования</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -783,7 +783,7 @@
 
                     </div>
                     <hr>
-                    <p class="text-center">Logistic support (air, railway, car, sea)</p>
+                    <p class="text-center">Логистическое сопровождение (авиа, ж/д, авто, море)</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>
@@ -871,7 +871,7 @@
 
                     </div>
                     <hr>
-                    <p class="text-center">Use of quality components</p>
+                    <p class="text-center">Использование качественных комплектующих</p>
                     </div>
                 </div>    
                 <div class="clearfix"></div>   
@@ -920,25 +920,25 @@
 <!--        </ul>-->
 <!--    </section>-->
     <section id="line" class="section-line">
-    <h2 class="section-title process-title">The technological process of work the forming machine RFM-200</h2>
+    <h2 class="section-title process-title">Технологический процесс работы формовочной машины RFM-200</h2>
         <div class="line_wrapper">
             <div class="line-video_wrapper">
                 <div class="line-video">
-                    <iframe src="https://www.youtube.com/embed/hrqD98VLF2Q" frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/HhW-23H_jJo" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="profile-wrapper fadeInRight">
                 <div class="about">
-                    <p class="about-txt">Forming machine for cereal mass MMC-200 is very easy to operate and service. You will no need large production areas and huge lines. Despite its small size, the forming machine MMC-200 has capacity up to 5 400 bars per hour, with a working width of 200 mm.</p>
-<p class="about-txt">The prepared mass (fruit paste (or any other homogeneous, paste based product) mixed with various additions (crushed nuts, protein, rice balls etc.) is loaded into the hopper of the forming machine manually or automatically using a transport system. Special feeding shafts in the hopper of the forming machine fill the cells in the forming roll by paste based mass. Cells are made individually for each customer based on the size and shape of the final product.</p>
-<p class="about-txt">Thus, the forming machine RFM-200 works without scraps and defects. Precise of the speed control of the feeding shafts and the forming roll allows you to customize the operation of the forming machine for each of mass, which allows you to produce a large assortment of paste based masses with one forming machine. Experiment, find new combinations of taste and benefit, because the compositions of fruit masses can be a great many.</p>
-<p class="about-txt">Next, the already formed product enters to the belt of the transport system of the forming machine. Thanks to the integrated transport system, the finished product can transferred to the enrobing or packaging machine.</p>
+                    <p class="about-txt">Формовочная машина для пластичных (фруктовых) масс RFM-200 очень проста в эксплуатации и обслуживании. Вам больше не понадобятся большие производственные площади и огромные линии. Несмотря на свои небольшие размеры формовочная машина RFM -200 имеет производительность до 5 400 батончиков в час, при рабочей ширине 200 мм.</p>
+<p class="about-txt">Подготовленная масса (фруктовая паста (или любой другой однородный, пластичный продукт) смешанная с различными добавлениями (дроблённые орехи, протеин, рисовые шарики и т.д.) загружается в бункер формовочной машины вручную или автоматически с использованием транспортной системы. Специальные нагнетающие валы в бункере формовочной машины наполняют ячейки в формовочном барабане массой. Ячейки изготовлены индивидуально для каждого заказчика исходя из размеров и формы конечного продукта.</p>
+<p class="about-txt">Таким образом формовочная машина RFM -200 работает без обрезков и брака. Точное управление скоростью нагнетающих валов и формовочного барабана позволяет настроить работу формовочной машины для каждой массы, что позволит Вам имея одну формовочную машину производить большой ассортимент пластичных (фруктовых) масс. Экспериментируйте, находите новые сочетания вкуса и пользы, ведь составов фруктовых масс может быть великое множество.</p>
+<p class="about-txt">Далее уже отформованный продукт поступает на ленту транспортной системы формовочной машины. Благодаря интегрированной транспортной системе происходит переход готового продукта на глазировочную или упаковочную машину.</p>
                 </div>
             </div>
         </div>
 </section>
 <section class="process">
-        <h2 class="section-title-2">The technological process of the automatic line</h2>
+        <h2 class="section-title-2">Технологический процесс работы автоматической линии</h2>
         <div class="line_wrapper">
             <div class="line-video_wrapper">
                 <div class="line-video">
@@ -947,25 +947,25 @@
             </div>
             <div class="profile-wrapper fadeInRight">
                 <div class="about">
-                    <p class="about-txt-2 animated-item js-animated-item"><span>Step 1. Mixing the components. </span>Fruit paste (or any other homogeneous, paste based product) and various additions (crushed nuts, protein, rice balls etc.) in accordance with the proportions of the formulation are loaded into the mixer MSW-80. Maked the mixing process. The resulting mass is unloaded and fed into the hopper of the forming machine for paste based (fruit) mass RFM-200 using a transport system or manually.</p>
-                    <p class="about-txt-2 animated-item js-animated-item"><span>Step 2. Forming. </span>After loading the mass into the hopper of the forming machine RFM-200, maked the forming process and the product of the final form for the next process step according to the technology enters the machine conveyor belt. It can be: cooling (if required to save the mass in shape); coating with chocolate or yogurt glaze (the whole product or only the bottom); heat treatment (on trays in a convection-type oven or by conveyor into a tunnel-type oven).</p>
-                    <p class="about-txt-2 animated-item js-animated-item"><span>Step 3. Cooling. </span>If the mass requires cooling for further work, then the product after the conveyor belt of the forming machine goes to the conveyor of the cooling tunnel SW-CT 200, the working length is 10 m.</p>
-                    <p class="about-txt-2 animated-item js-animated-item"><span>Step 4. Enrobing. </span>If the product according to the technology needs to be enrobed with chocolate or any other glaze, then after the cooling tunnel or immediately after the forming machine RFM-200, the product enters the mesh tape of the SW-ET 200 enrobing machine, where the product is completely enrobing with chocolate or glaze or only the bottom of the product.</p>
-                    <p class="about-txt-2 animated-item js-animated-item"><span>Step 5. Cooling. </span>After the enrobing machine SW-ET 200, the product must be cooled. For this is used the cooling tunnel SW-CT 200 , the working length 10 m.</p>
-                    <p class="about-txt-2 animated-item js-animated-item"><span>Step 6. Packing. </span>Packing. After all the processes according to the technology are finished, the product can be packaged. The most popular type of packing for this kind of product is flowpack packaging. To automate the packaging process, as well as to increase the speed of packaging, is used the automatic packing machine PMW-250 with automatic feeders, which align the product from the production line to one stream. The packed product is ready for sale.</p>
+                    <p class="about-txt-2 animated-item js-animated-item"><span>Шаг 1. Смешивание компонентов. </span>Фруктовая паста (или любой другой однородный, пластичный продукт) и различные добавления (дроблённые орехи, протеин, рисовые шарики и т.д.)  в соответствии с пропорциями рецептуры загружаются в смеситель MSW-80. Происходит процесс смешивания. Полученная масса выгружается и поступает в бункер формовочной машины для пластичных (фруктовых) масс RFM -200 при помощи транспортной системы или вручную.</p>
+                    <p class="about-txt-2 animated-item js-animated-item"><span>Шаг 2. Формование. </span>После загрузки массы в бункер формовочной машины RFM -200 происходит процесс формования и по ленте транспортёра машины поступает продукт конечной формы для следующего шага процесса согласно технологии. Это может быть: охлаждение (если это требуется для того, чтобы масса сохранила форму); покрытие шоколадом или йогуртной глазурью (продукта целиком или только донышка); термическая обработка (на лотках в печь конвекционного типа или по транспортёру в печь тоннельного типа).</p>
+                    <p class="about-txt-2 animated-item js-animated-item"><span>Шаг 3. Охлаждение. </span>Если масса требует охлаждения для дальнейшей работы, то продукт после ленты транспортёра формовочной машины попадает на ленту охлаждающего тоннеля SW-CT 200, рабочая зона которого составляет 10 м.</p>
+                    <p class="about-txt-2 animated-item js-animated-item"><span>Шаг 4. Покрытие. </span>Если продукт, согласно технологии, необходимо покрыть шоколадом или любой другой глазурью, то после охлаждающего тоннеля или сразу после формовочной машины RFM -200 продукт поступает на сетчатую ленту глазировочной машины SW-ET 200, где продукт покрывается шоколадом или глазурью полностью или только дно подукта.</p>
+                    <p class="about-txt-2 animated-item js-animated-item"><span>Шаг 5. Охлаждение. </span>После глазировочной машины SW-ET 200 продукт необходимо охладить. Для этого используется холодильный тоннель SW-CT 200, рабочая зона которого составляет 10 м.</p>
+                    <p class="about-txt-2 animated-item js-animated-item"><span>Шаг 6. Упаковка. </span>После того как все процессы согласно технологии соблюдены, продукт можно упаковывать. Наиболее популярным типом упаковки для продуктов такого рода является упаковка во флоупак. Для автоматизации процесса упаковки, а также для увеличения скорости упаковки используют упаковочную машину PMW-250 с автоматическими самораскладами, которые выравнивают продукт с производственой линии в один поток. Упакованный продукт готов к продаже.</p>
                 </div>
             </div>
         </div>
     </section>
 <section class="photo" id="photo">
-        <h3 class="section-title-photo">Pictures</h3>
+        <h3 class="section-title-photo">Фото линии</h3>
         <ul class="photo-wrapper">
             <li class="line-item animated-item js-animated-item">
                 <div class="line-img-wrapper">
                     <img src="/rfm-200/assets/img/200/line/liniy_4png.png" alt="" class="line-img">
                     <span></span>
                 </div>
-                <h4 class="line-subtitle">Mixer MSW-90</h4>
+                <h4 class="line-subtitle">Миксер MSW-90</h4>
             </li>
             <li class="line-item animated-item js-animated-item">
                 <div class="line-img-wrapper">
@@ -979,21 +979,21 @@
                     <img src="/rfm-200/assets/img/200/line/liniy_3png.png" alt="" class="line-img">
                     <span></span>
                 </div>
-                <h4 class="line-subtitle">Enrobing machine SW-ET/200</h4>
+                <h4 class="line-subtitle">Глазировочная машина SW-ET/200</h4>
             </li>
             <li class="line-item animated-item js-animated-item">
                 <div class="line-img-wrapper">
                     <img src="/rfm-200/assets/img/200/line/liniy_2png.png" alt="" class="line-img">
                     <span></span>
                 </div>
-                <h4 class="line-subtitle">Cooling tunnel SW-CT/200</h4>
+                <h4 class="line-subtitle">Охлаждающий тоннель SW-CT/200</h4>
             </li>
             <li class="line-item animated-item js-animated-item">
                 <div class="line-img-wrapper">
                     <img src="/rfm-200/assets/img/200/line/liniy_1png.png" alt="" class="line-img">
                     <span></span>
                 </div>
-                <h4 class="line-subtitle">Packing machine PMW-250</h4>
+                <h4 class="line-subtitle">Упаковочная машина PMW-250</h4>
             </li>
         </ul>
     </section>
@@ -1002,7 +1002,7 @@
             <img src="/rfm-200/assets/img/background.jpg" alt="" class="contact-bg-img">
         </div>
         <div class="contacts-content">
-            <h2 class="section-title">Contacts</h2>
+            <h2 class="section-title">Контакты</h2>
             <div class="contacts-wrapper">
                 <ul class="contacts-list">
                     <li class="contacts-item">
@@ -1016,8 +1016,8 @@
                                 </linearGradient>
                                 <path d="m204.5 458.605469v51.855469l-12.539062-10.128907c-1.9375-1.566406-48.035157-38.992187-94.78125-92.660156-64.484376-74.035156-97.179688-140.492187-97.179688-197.519531v-5.652344c0-112.761719 91.738281-204.5 204.5-204.5s204.5 91.738281 204.5 204.5v5.652344c0 4.789062-.253906 9.652344-.714844 14.574218l-39.992187-36.484374c-8.191407-83.15625-78.519531-148.339844-163.792969-148.339844-90.757812 0-164.597656 73.839844-164.597656 164.597656v5.652344c0 96.367187 124.164062 213.027344 164.597656 248.453125zm122.699219-28.660157h59.851562v-59.851562h-59.851562zm-122.699219-310.238281c46.753906 0 84.792969 38.039063 84.792969 84.792969s-38.039063 84.792969-84.792969 84.792969-84.792969-38.039063-84.792969-84.792969 38.039063-84.792969 84.792969-84.792969zm0 39.902344c-24.753906 0-44.890625 20.136719-44.890625 44.890625 0 24.75 20.136719 44.890625 44.890625 44.890625 24.75 0 44.890625-20.140625 44.890625-44.890625 0-24.753906-20.140625-44.890625-44.890625-44.890625zm280.609375 243.222656-11.21875-10.234375v64.058594c0 29.828125-24.269531 54.09375-54.097656 54.09375h-126.332031c-29.828126 0-54.097657-24.265625-54.097657-54.09375v-64.058594l-11.21875 10.234375-26.890625-29.476562 155.371094-141.746094 155.375 141.746094zm-51.121094-46.636719-77.363281-70.574218-77.359375 70.574218v100.457032c0 7.828125 6.367187 14.195312 14.195313 14.195312h126.332031c7.828125 0 14.195312-6.367187 14.195312-14.195312zm0 0"
                                       fill="url(#a)"/>
-                            </svg><span>RUSSIA, STAVROPOL REGION, KOCHUBEEV DISTRICT,
-<br>H. NOVOZELENCHUKSKY, STR. GAGARINA, 1</span>
+                            </svg><span>РОССИЯ, СТАВРОПОЛЬСКИЙ КРАЙ, КОЧУБЕЕВСКИЙ РАЙОН,
+<br>Х. НОВОЗЕЛЕНЧУКСКИЙ, УЛ. ГАГАРИНА, 1</span>
                         </h6>
                     </li>
                     <li class="contacts-item">
@@ -1069,7 +1069,7 @@
                             <g>
                             </g>
 </svg>
-                        <span>TEL. +7 (86554) 9-53-17 EXT. 500/504/104/501/506</span>
+                        <span>ТЕЛ. +7 (86554) 9-53-17 ДОБ. 500/504/104/501/506</span>
                     </li>
                     <li class="contacts-item">
                         <svg width="16pt" height="16pt" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -1151,7 +1151,7 @@
             </a>
         </div>         
     <div class="col-md-4 copy">
-        <p>All rights reserved. © <a href="https://sweetstech.com/ru/">Sweets Technologies Ltd.</a></p>
+        <p>Все права защищены. © <a href="https://sweetstech.com/ru/">Sweets Technologies Ltd.</a></p>
     </div> 
 </div>
 </div>
@@ -1167,11 +1167,11 @@
     <form action="/RFM-200/index.php" class="form" method="post" enctype="multipart/form-data">
         <h3 class="form-title">RFM-200</h3>
         <div class="input_wrapper">
-            <label for="nsp" class="form-label js-form-label">Name</label>
+            <label for="nsp" class="form-label js-form-label">ФИО</label>
             <input type="text" id="nsp" name="nsp" class="form-input js-form-input" required>
         </div>
         <div class="input_wrapper">
-            <label for="company" class="form-label js-form-label">Company</label>
+            <label for="company" class="form-label js-form-label">Компания</label>
             <input type="text" id="company" name="company" class="form-input js-form-input" required>
         </div>
         <div class="input_wrapper">
@@ -1179,19 +1179,19 @@
             <input type="email" id="email" name="email" class="form-input js-form-input" required>
         </div>
         <div class="input_wrapper phone_wrapper">
-            <label for="phone" class="form-label js-form-label">Phone</label>
+            <label for="phone" class="form-label js-form-label">Телефон</label>
             <input type="tel" id="phone" name="phone" class="form-input js-form-input">
         </div>
         <input type="hidden" name="product" value="RFM-200">
-        <p class="form-info">* - required</p>
+        <p class="form-info">* - Обязательно</p>
         <p class="form-info">
             <input type="checkbox" class="form-accept js-form-accept" checked="checked" id="accept" style="cursor:pointer;">
-            <label style="cursor:pointer;" for="accept">I agree to the processing of personal data</label>
+            <label style="cursor:pointer;" for="accept">Я согласен на обработку персональных данных</label>
         </p>
         <input type="hidden" name="prod" value="RFM-200">
         <div class="form-btn_wrapper">
             <button type="submit" class="form-btn js-form-btn">
-                <span class="js-form-btn_txt">Get quotation</span>
+                <span class="js-form-btn_txt">Получить предложение</span>
                 <div class="spinner js-spinner">
                     <div class="bounce1"></div>
                     <div class="bounce2"></div>
@@ -1301,7 +1301,7 @@
 </svg>
     </button>
 </div>
-<button type="button" class="show-form js-show-form">Get quotation</button>
+<button type="button" class="show-form js-show-form">Получить предложение</button>
 
 <div class="to-top js-to-top">
     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"></path></svg>
